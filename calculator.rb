@@ -1,8 +1,8 @@
 # calculator program
 print "Enter 1st number: "
-number1 = gets.chomp.to_i
+number1 = gets.chomp.to_f
 print "Enter 2nd number: "
-number2 = gets.chomp.to_i
+number2 = gets.chomp.to_f
 print "Enter the operation (+, -, *, /): "
 operation = gets.chomp.to_s
 result = nil
