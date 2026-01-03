@@ -1,1 +1,2 @@
-print "Hello, World!"
+user = "Jayavel"
+print "Hello, #{user}"
