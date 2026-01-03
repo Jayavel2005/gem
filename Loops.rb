@@ -35,3 +35,8 @@
 #   puts "You are an adult."
 # end
 
+arr = [1, 2, 3, 4, 5]
+
+puts arr.reject {|num| num % 3 == 0 }.inspect
+
+arr.delete
