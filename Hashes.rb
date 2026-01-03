@@ -37,3 +37,13 @@ todo = {
   :priority => "High",
 }
 puts todo[:title]
+
+
+person = {
+  :name => "Alice",
+  :age => 21,
+  :hobbies => ["reading", "traveling", "coding"],
+}
+
+person[:hobbies].push("music")
+puts person.inspect
