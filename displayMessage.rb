@@ -14,4 +14,10 @@ puts "   /      \\"
 puts "  /________\\"
 
 
+puts ""
 
+puts "    /|"
+puts "   / |"
+puts "  /  |"
+puts " /   |"
+puts "/____|"
