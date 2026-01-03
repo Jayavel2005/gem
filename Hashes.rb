@@ -28,3 +28,12 @@ puts student.keys.inspect
 puts student.values.inspect
 
 puts student.value?("Jayavel")
+
+
+
+todo = {
+  :title => "Complete Ruby Assignment",
+  :due_date => "2024-07-01",
+  :priority => "High",
+}
+puts todo[:title]
