@@ -36,3 +36,6 @@ mobile1 = Mobile.new("Samsung", 500)
 mobile1.details
 puts mobile1.discount(10)
 puts mobile1.brand
+
+
+puts mobile1
